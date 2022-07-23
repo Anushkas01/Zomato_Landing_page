@@ -6,7 +6,7 @@
     text-transform: capitalize;
   } 
   .hero__section {
-    background: url(/images/heroSectionBackground.png);
+    background: url(images/heroSectionBackground.png);
     background-position: 100%;
     background-size: cover;
     color: white;
