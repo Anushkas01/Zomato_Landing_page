@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     text-transform: capitalize;
-  } 
+  }  
   .hero__section {
     background: url(images/heroSectionBackground.png);
     background-position: 100%;
